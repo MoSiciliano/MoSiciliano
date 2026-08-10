@@ -43,14 +43,6 @@
 
 ---
 
-### 😄 Chiste de programador random
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes card" />
-</p>
-
----
-
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
