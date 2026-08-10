@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/images/pusheen-programmer.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212898792-2844553a-e201-4eec-a5e2-3b0f532712e6.gif" width="450" alt="Designer vs Developer" />
+  <br/>
+  <sub><i>La eterna guerra: Diseño vs Desarrollo 😅</i></sub>
 </p>
 
 ---
@@ -46,27 +48,17 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoSiciliano&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoSiciliano&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MoSiciliano&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoSiciliano&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoSiciliano&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=MoSiciliano&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MoSiciliano&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-### 🐍 Snake que se come mis contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MoSiciliano/MoSiciliano/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ Esta animación necesita un paso extra de configuración (un GitHub Action) para funcionar — te dejo cómo activarla en las instrucciones que te paso abajo del código.
 
 ---
 
