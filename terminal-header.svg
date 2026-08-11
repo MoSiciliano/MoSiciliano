@@ -1,0 +1,24 @@
+<svg width="750" height="36" viewBox="0 0 750 36" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="topRounded">
+      <path d="M14,0 H736 C743.7,0 750,6.3 750,14 V36 H0 V14 C0,6.3 6.3,0 14,0 Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#topRounded)">
+    <rect x="0" y="0" width="750" height="36" fill="#2d2d2d"/>
+    <rect x="0" y="0" width="750" height="3" fill="#e95420"/>
+  </g>
+
+  <text x="18" y="23" font-family="Ubuntu Mono, Fira Code, Consolas, monospace" font-size="13" fill="#e5e5e5">morena@linux</text>
+  <text x="120" y="23" font-family="Ubuntu Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8a8a8a">: ~</text>
+
+  <g stroke="#8a8a8a" stroke-width="1.5" fill="none">
+    <line x1="695" y1="18" x2="705" y2="18"/>
+    <rect x="720" y="12" width="12" height="12"/>
+    <line x1="742" y1="12" x2="742" y2="12"/>
+  </g>
+  <g stroke="#8a8a8a" stroke-width="1.5">
+    <line x1="736" y1="12" x2="746" y2="24"/>
+    <line x1="746" y1="12" x2="736" y2="24"/>
+  </g>
+</svg>
