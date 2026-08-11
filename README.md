@@ -53,11 +53,19 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MoSiciliano&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MoSiciliano&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoSiciliano&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MoSiciliano&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Snake que se come mis contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoSiciliano/MoSiciliano/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
