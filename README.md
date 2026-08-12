@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./terminal-header.svg" alt="Terminal header" width="750" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=50FA7B&background=0D1117&center=true&vCenter=true&width=750&height=90&lines=Bienvenida+a+mi+perfil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;De+instructora+de+pilates+a+developer;Full+stack+developer+en+formaci%C3%B3n;Construyendo%2C+un+proyecto+a+la+vez+%F0%9F%8C%B1" alt="Typing SVG" width="750" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=50FA7B&background=0D1117&center=true&vCenter=true&width=750&height=90&lines=Full+Stack+Developer;Reci%C3%A9n+graduada%2C+con+muchas+ganas;De+la+teor%C3%ADa+a+la+pr%C3%A1ctica;En+b%C3%BAsqueda+de+mi+pr%C3%B3ximo+desaf%C3%ADo;Hecho+con+caf%C3%A9+y+l%C3%B3gica+%E2%98%95" alt="Typing SVG" width="750" />
 </p>
 
 ---
@@ -67,23 +67,6 @@ const morena = {
 <p align="center">
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MoSiciliano&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoSiciliano&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MoSiciliano&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoSiciliano&theme=react-dark&hide_border=true" />
 </p>
 
 ---
